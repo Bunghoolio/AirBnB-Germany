@@ -1,3 +1,4 @@
+# Airbnb Germany Analysis
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -17,6 +18,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation<a name="motivation"></a>
 This project was created as part of my Udacity Data Science Nano Degree project.
 Within this project I was using the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process. The CRISP-DM process includes the following steps:
+
+1. [Business Understanding](#business_understanding)
+2. [Data Understanding](#data_understanding)
+3. [Prepare Data](#prepare_data)
+4. [Data Modeling](#data_modeling)
+5. [Evaluate the Results](#results)
 
 ### Business Understanding<a name='business_understanding'></a>
 This analysis aims to better understand what influences the vacation rental prices in Munich.
