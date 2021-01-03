@@ -68,5 +68,6 @@ The folder 'Munich' also includes an image 'Map_of_districts_in_Munich.png' used
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to ['Inside Airbnb'])(http://insideairbnb.com/about.html) for the data.  You can find the Licensing for the data and other descriptive information at the homepage of 'Inside Airbnb' available [here](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like!
+Must give credit to ['Inside Airbnb'](http://insideairbnb.com/about.html) for the data.  You can find the Licensing for the data and other descriptive information at the homepage of 'Inside Airbnb' available [here](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like!
+The picture 'Map_of_districts_in_Munich.png' has been taken from Wikipedia. Detailed licensing and furhter information can be reviewed [here](https://de.wikipedia.org/wiki/Liste_der_Stadtteile_M%C3%BCnchens#/media/Datei:Karte_der_Stadtbezirke_in_M%C3%BCnchen.png).
 Another thank goes to [jjrunner](https://github.com/jjrunner). The project [stackoverflow](https://github.com/jjrunner/stackoverflow.git) was used as a blue print for the structure of a blogpost project.
